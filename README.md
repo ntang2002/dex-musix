@@ -1,2 +1,2 @@
-# dex-musix
+# dex-music
 new repo
